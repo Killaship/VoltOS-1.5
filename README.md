@@ -4,7 +4,7 @@ VoltOS Manual
 
 
 
-WINDOWS 10 ONLY.
+might be windows only, I have no clue, I wrote this program like 3 years ago
 CONFIG ONLY TO BE USED WITH ".py" FILES.
 
 
@@ -29,3 +29,8 @@ Open VoltOS.py, and VoltOS should run. For best experience, copy the path to the
 
 
 LAST UPDATED SOMETIME FEB. 2021, VOLTOS 1.2
+^^
+IGNORE THAT
+LAST UPDATED 11/23/2022, VOLTOS 1.5
+MM/DD/YYYY
+DD/MM/YYYY is better, though
