@@ -3,13 +3,13 @@
 
 
 1.5.1 will be an update to add more account safety, add multiple users, a permanent memory of users, and finally implement OTA updates, and security for it, because 
-someone could update your version with |Nothing|, and overwrite the whole thing.
+someone could update your version with |Nothing|, and overwrite the whole thing. EDIT: I had no clue what I was doing, I wrote this over 2 years ago
 
 
 | Version | Supported          |
 | ------- |  ------------------|
 | 1.5.1   | :white_check_mark: |
-| <1.5    | :x:                |
+| =< 1.5    | :x:              |
 
 ## Reporting a Vulnerability
 
